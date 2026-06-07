@@ -7,13 +7,12 @@
 
 ### ⚡ Hardware & Analog Engineering
 *   **Analog Audio**
-*   **RF Engineering** 
+*   **RF Engineering**
+*   **Automation**
 
 ### 🌐 Infrastructure & Networking
 *   **Environment:** Pure Linux environments (Fedora, Debian, Ubuntu) for deployment and development.
 *   **Power Grid:** Decentralized 3-tier rack systems with automated telemetry tracking.
-
-### 💻 Low-Bloat Software
 
 ---
 
