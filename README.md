@@ -6,9 +6,9 @@
 ## 🛠️ Core Focus
 
 ### ⚡ Hardware & Analog Engineering
-*   **Analog Audio**
-*   **RF Engineering**
-*   **Automation**
+*   **Analog Audio & Hardware Engineering:** Designing analog audio ecosystems from scratch (filter calculations, PCB routing, IC selection) as well as component-level hardware troubleshooting.
+*   **Autonomous Infrastructure:** Building a self-sufficient, efficient, and bloatware-free network infrastructure, servers, and software framework
+*   **Fundamental Science:** Pursuing a deep understanding of the universe through mathematics and theoretical physics for my long-term goal in Cosmology.
 
 ---
 
@@ -19,8 +19,9 @@
 ---
 
 ## 🧪 Ongoing Focus
-*   **High-End Audio:** Balanced microphone preamplifier PCB routing optimization.
+*   **High-End Audio:** Designing a hi-fi audio amplifier for my balanced microphone and setup.
 *   **Theoretical Physics:** Advanced calculus for fundamental cosmology and electromagnetism.
+*   **Automation:** Improve my lab environment
 
 ---
 
