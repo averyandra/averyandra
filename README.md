@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World! I'm Averyandra
 > **Engineering autonomous, decentralized, and low-overhead systems from the ground up. Stripping away the bloat.**
 
 ---
