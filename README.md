@@ -12,6 +12,10 @@
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=arduino,python,html,nginx&theme=dark)](https://skillicons.dev)
+
+---
+
 ### 🌐 Infrastructure & Networking
 *   **Environment:** Pure Linux environments (Fedora, Debian, Ubuntu) for deployment and development.
 *   **Power Grid:** Decentralized 3-tier rack systems with automated telemetry tracking.
