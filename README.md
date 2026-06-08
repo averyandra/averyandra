@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,python,html,nginx&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,python,html,css,js,php,nginx&theme=dark)](https://skillicons.dev)
  
 ---
 
