@@ -17,34 +17,39 @@
 
 ## Tech Stack & Domain Expertise
 
-### Electronics, Embedded & Reverse Engineering
+### Electronics, Embedded & Hardware Engineering
 ![KiCad](https://img.shields.io/badge/KiCad-314A70?style=for-the-badge&logo=kicad&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice_Simulation-003366?style=for-the-badge&logo=analogdevices&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![AVR & Microchip](https://img.shields.io/badge/AVR_/_PIC_MCU-F05023?style=for-the-badge&logo=microchip&logoColor=white)
 ![ESP32 & NodeMCU](https://img.shields.io/badge/ESP32_/_NodeMCU-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_Baremetal-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT & Mosquitto](https://img.shields.io/badge/MQTT_/_Mosquitto-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Power Electronics](https://img.shields.io/badge/Power_Electronics-_Switching_/_DPA-D32F2F?style=for-the-badge)
 ![Analog Audio & RF](https://img.shields.io/badge/Analog_Audio_%26_RF_-1565C0?style=for-the-badge)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering_Hardware_-4B0082?style=for-the-badge)
 
 ### Networking, DNS & Server Infrastructure
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-F4511E?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-188879?style=for-the-badge&logo=openwrt&logoColor=white)
 ![BIND9 DNS](https://img.shields.io/badge/BIND9_DNS-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Debian / Fedora](https://img.shields.io/badge/Linux_Server-A80030?style=for-the-badge&logo=debian&logoColor=white)
 
-### Frontend & Vibe-Coded Web
+### Backend, Telemetry & Web Services
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MQTT & Mosquitto](https://img.shields.io/badge/MQTT_/_Mosquitto-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+### Frontend & UI Design (Vibe-Coded!)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React_Dark_UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Active Projects & Lab Endeavors
 
