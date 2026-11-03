@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="media/banner.jpg" alt="averyandra's banner" width="100%">
+</p>
+
 # Hello World! I'm Averyandra
 > **System Builder, Independent Hardware Engineer & Reverse Engineer**
 > *Engineering autonomous, decentralized, and bare-metal systems from the ground up. Stripping away the bloatware.*
