@@ -22,7 +22,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![AVR & Microchip](https://img.shields.io/badge/AVR_/_PIC_MCU-F05023?style=for-the-badge&logo=microchip&logoColor=white)
+![ESP32 & NodeMCU](https://img.shields.io/badge/ESP32_/_NodeMCU-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_Baremetal-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT & Mosquitto](https://img.shields.io/badge/MQTT_/_Mosquitto-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Power Electronics](https://img.shields.io/badge/Power_Electronics-_Switching_/_DPA-D32F2F?style=for-the-badge)
 ![Analog Audio & RF](https://img.shields.io/badge/Analog_Audio_%26_RF_-1565C0?style=for-the-badge)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering_Hardware_-4B0082?style=for-the-badge)
@@ -32,6 +34,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-188879?style=for-the-badge&logo=openwrt&logoColor=white)
 ![BIND9 DNS](https://img.shields.io/badge/BIND9_DNS-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Debian / Fedora](https://img.shields.io/badge/Linux_Server-A80030?style=for-the-badge&logo=debian&logoColor=white)
 
@@ -42,8 +45,6 @@
 ![React](https://img.shields.io/badge/React_Dark_UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
 
 ## Active Projects & Lab Endeavors
 
