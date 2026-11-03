@@ -62,6 +62,13 @@
 
 ## GitHub Stats & Activity
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/averyandra/averyandra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/averyandra/averyandra/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/averyandra/averyandra/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=averyandra&show_icons=true&count_private=true&bg_color=0d0d0d&title_color=ff2e4d&text_color=b3b3b3&icon_color=ff2e4d&border_color=2b0000" alt="GitHub Stats" height="165" />
   &nbsp;
@@ -77,3 +84,5 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
+
