@@ -1,36 +1,63 @@
 # Hello World! I'm Averyandra
-> **Engineering autonomous, decentralized, and low-overhead systems from the ground up. Stripping away the bloat.**
+> **System Builder, Independent Hardware Engineer & Reverse Engineer**
+> *Engineering autonomous, decentralized, and bare-metal systems from the ground up. Stripping away the bloatware.*
 
 ---
 
 ## Core Focus
 
-### Hardware & Analog Engineering
-*   **Analog Audio & Hardware Engineering:** Designing analog audio ecosystems from scratch (filter calculations, PCB routing, IC selection) as well as component-level hardware troubleshooting.
-*   **Autonomous Infrastructure:** Building a self-sufficient, efficient, and bloatware-free network infrastructure, servers, and software framework
-*   **Fundamental Science:** Pursuing a deep understanding of the universe through mathematics and theoretical physics for my long-term goal in Cosmology.
+* **Hardware & Power Electronics:** High-efficiency power distribution architecture, RF/analog signal paths, zero-crossing control, and end-to-end PCB design (schematic to fabrication).
+* **Embedded Systems & Firmware:** Bare-metal C/C++ development, bit-banging communication protocols (SPI/I2C/UART), and custom MCU toolchains.
+* **Network Infrastructure & Edge:** Managing high-availability homelab servers, hardware routing, custom DNS zone handling, and isolated split-tunnel networks.
+* **Hardware & Software Reverse Engineering:** Analyzing board-level traces, probing buses, disassembling MCU binaries, and retrofitting closed hardware into open systems.
+* **Frontend & Vibe-Coding:** Rapidly prototyping sleek, dark-mode, glassmorphic web/desktop interfaces and lightweight APIs without bloated frameworks.
+* **Fundamental Science:** Self-directed research in calculus, electromagnetism, and theoretical physics toward long-term goals in cosmology.
 
 ---
 
+## Tech Stack & Domain Expertise
 
-### Tech Stack & Tools
+### Electronics, Embedded & Reverse Engineering
+![KiCad](https://img.shields.io/badge/KiCad-314A70?style=for-the-badge&logo=kicad&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![AVR & Microchip](https://img.shields.io/badge/AVR_/_PIC_MCU-F05023?style=for-the-badge&logo=microchip&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_Baremetal-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Power Electronics](https://img.shields.io/badge/Power_Electronics-_Switching_/_DPA-D32F2F?style=for-the-badge)
+![Analog Audio & RF](https://img.shields.io/badge/Analog_Audio_%26_RF_-1565C0?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering_Hardware_-4B0082?style=for-the-badge)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,python,html,css,js,php,laravel,react,nginx,fastapi,cpp,c,docker&theme=dark)](https://skillicons.dev)
- 
+### Networking, DNS & Server Infrastructure
+![MikroTik](https://img.shields.io/badge/MikroTik-F4511E?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-188879?style=for-the-badge&logo=openwrt&logoColor=white)
+![BIND9 DNS](https://img.shields.io/badge/BIND9_DNS-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Debian / Fedora](https://img.shields.io/badge/Linux_Server-A80030?style=for-the-badge&logo=debian&logoColor=white)
+
+### Frontend & Vibe-Coded Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React_Dark_UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 ---
 
-## Ongoing Focus
-*   **High-End Audio:** Designing a hi-fi audio amplifier for my balanced microphone and setup.
-*   **Theoretical Physics:** Advanced calculus for fundamental cosmology and electromagnetism.
-*   **Automation:** Improve my lab environment
+## Active Projects & Lab Endeavors
+
+* **Digital Hot-Air Station Firmware:** Custom bare-metal C++ PID temperature control, zero-crossing detection, and ICSP programming toolchain.
+* **High-Efficiency Distributed Power Architecture:** Designing a 350W lab-grade main power supply unit with 50V bus stepping down to local rails.
+* **Hi-Fi Audio Preamplifier:** Multi-panel PCB design for balanced audio, microphone preamps, and active filtering circuits in KiCad.
+* **Self-Hosted Lab Network:** Bare-metal Linux servers running local DNS routing, WebSocket telemetry, and containerized internal services.
 
 ---
 
 ## Connect
+
 <div align="center">
-    <a href="https://github.com/averyandra" target="blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
+  <a href="https://github.com/averyandra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
-
-
