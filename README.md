@@ -54,6 +54,16 @@
 
 ---
 
+## GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=averyandra&show_icons=true&count_private=true&bg_color=0d0d0d&title_color=ff2e4d&text_color=b3b3b3&icon_color=ff2e4d&border_color=2b0000" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=averyandra&layout=compact&bg_color=0d0d0d&title_color=ff2e4d&text_color=b3b3b3&icon_color=ff2e4d&border_color=2b0000" alt="Top Languages" height="165" />
+</p>
+
+---
+
 ## Connect
 
 <div align="center">
